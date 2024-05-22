@@ -18,6 +18,12 @@ Open in VSCode
 code-insiders .
 ```
 
+Open Jupyter Noteboks from CLI
+
+```console
+jupyter notebook
+```
+
 ## Deactivate environment
 
 ```console
